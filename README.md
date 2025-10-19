@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MGezgin2020
 - 👀 I’m interested in new cultures
-- 🌱 I’m currently learning Python
+- 🌱 Python + MS SQL + Cyber Security 
 - 💞️ I’m looking to collaborate on nothing yet..maybe later
 - 📫 How to reach me ... mgezgin2020@gmail.com
 - 😄 Pronouns: he / him 
